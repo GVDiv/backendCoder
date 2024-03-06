@@ -10,7 +10,7 @@ const verdadero = true;
 const datos = { cadenaDeTexto, numero, verdadero };
 const arreglo = [65000, "bitcoin", true];
 
-datos.fechaDeNacimiento = new Date('Marzo 5')
+datos.fechaDeNacimiento = new Date;
 
 console.log(verdadero);
 console.log(cadenaDeTexto);
